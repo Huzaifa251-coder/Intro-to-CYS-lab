@@ -80,6 +80,8 @@ An attack method where attackers execute arbitrary commands on systems by inject
 - **Benefits:** Enhanced security, improved error handling.
 
 ---
+## _**Slides**_
 
-## THANKS!
-*DO YOU HAVE ANY QUESTIONS?*
+<p align="left">
+  Presentation Slides Link <a href="https://www.canva.com/design/DAF3FIq5v8w/IryxNG9Xy-jQZDPRP0HIXQ/view?utm_content=DAF3FIq5v8w&utm_campaign=designshare&utm_medium=link&utm_source=editor" style="text-decoration: none; color: inherit; font-weight: bold;">Here</a>
+</p>
