@@ -83,5 +83,5 @@ An attack method where attackers execute arbitrary commands on systems by inject
 ## _**Slides**_
 
 <p align="left">
-  Presentation Slides Link <a href="https://www.canva.com/design/DAF3FIq5v8w/IryxNG9Xy-jQZDPRP0HIXQ/view?utm_content=DAF3FIq5v8w&utm_campaign=designshare&utm_medium=link&utm_source=editor" style="text-decoration: none; color: inherit; font-weight: bold;">Here</a>
+  Presentation Slides Link <a href="https://github.com/Huzaifa251-coder/Intro-to-CYS-lab/blob/de0f4d5aad74e503cb2faa91311ab9eff0961ff5/intro-to-CYS-lab.pptx" style="text-decoration: none; color: inherit; font-weight: bold;">Here</a>
 </p>
